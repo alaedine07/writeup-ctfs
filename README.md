@@ -1,2 +1,2 @@
-# writeup-ctfs
-a collection of my writeups for some ctfs
+# ctf-writeups
+a collection of ctf-writeups
